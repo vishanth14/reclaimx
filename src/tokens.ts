@@ -1,0 +1,18 @@
+export const T = {
+  bg: "#090B0F",
+  surface: "#0F1217",
+  surface2: "#14181E",
+  surface3: "#181D24",
+  text: "#F5F5F0",
+  text2: "#9299A4",
+  muted: "#656D78",
+  border: "#252A32",
+  accent: "#7657FF",
+  accent2: "#55C7D9",
+  gold: "#D6B36A",
+  mono: "'JetBrains Mono', monospace",
+  sans: "'Inter', system-ui, sans-serif",
+  displaySerif: "'Bodoni Moda', 'Cinzel', 'Cormorant Garamond', Georgia, serif",
+  cinzel: "'Cinzel', 'Bodoni Moda', serif",
+  retroTitle: "'Bodoni Moda', 'Cinzel', Georgia, serif",
+} as const
